@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "label": "Title",
+    "multiline": false,
+    "rows": 0,
+    "name": "title",
+    "required": true
+  },
+  {
+    "id": 2,
+    "label": "Description",
+    "multiline": true,
+    "rows": 10,
+    "name": "body",
+    "required": true
+  }
+]
